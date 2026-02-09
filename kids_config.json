@@ -1,0 +1,109 @@
+{
+  "general": {
+    "remote_config_version": 1,
+    "app_name": "FireScape Kids",
+    "theme_color": "#1E88E5",
+
+    "buttons": {
+      "rate_url": "",
+      "share_text": "",
+      "more_apps_url": "",
+      "show_remove_ads_button": false,
+      "show_premium_button": false
+    },
+
+    "iap": {
+      "enabled": false,
+      "lifetimeSku": "",
+      "subscriptions": {
+        "enabled": false,
+        "skus": {
+          "1m": "",
+          "3m": "",
+          "6m": "",
+          "12m": ""
+        }
+      }
+    },
+
+    "ads": {
+      "showAds": false,
+      "clicksBeforeInterstitial": 999,
+      "autoShowIntervalSeconds": 0,
+      "banner": {
+        "enabled": false,
+        "size": "BANNER",
+        "position": "BOTTOM",
+        "autoLoad": false,
+        "disableOnTv": true
+      },
+      "mintegral": {
+        "enabled": false,
+        "testMode": true,
+        "appId": "",
+        "appKey": "",
+        "units": {
+          "banner": "",
+          "bannerUnit": "",
+          "interstitial": "",
+          "interstitialUnit": "",
+          "rewarded": "",
+          "rewardedUnit": ""
+        }
+      }
+    }
+  },
+
+  "categories": [
+    {
+      "name": "Fireplace (Kids)",
+      "videos": [
+        {
+          "id": "kids_fireplace_01",
+          "title": "Fireplace 1",
+          "category": "Fireplace",
+          "thumbnail": "https://github.com/brahim1994/vid/releases/download/v1/fire.png",
+          "video_url": "https://mylivewallpapers.com/wp-content/uploads/Movies/PREVIEW-Jinx-Season-2-Arcane.mp4",
+          "loop": true,
+          "downloadable": false,
+          "premium_only": false
+        },
+        {
+          "id": "kids_fireplace_02",
+          "title": "Fireplace 2",
+          "category": "Fireplace",
+          "thumbnail": "https://github.com/brahim1994/vid/releases/download/v1/fire.png",
+          "video_url": "https://wallpaperwaves.com/wp-content/uploads/2025/12/irelia-league-of-legends-epic-combat-preview.mp4",
+          "loop": true,
+          "downloadable": false,
+          "premium_only": false
+        }
+      ]
+    },
+    {
+      "name": "Nature (Kids)",
+      "videos": [
+        {
+          "id": "kids_nature_01",
+          "title": "City Rain",
+          "category": "Nature Ambience",
+          "thumbnail": "https://github.com/brahim1994/vid/releases/download/v1/nature.png",
+          "video_url": "https://github.com/brahim1994/vid/releases/download/v1/Pinterest.1.mp4",
+          "loop": true,
+          "downloadable": false,
+          "premium_only": false
+        },
+        {
+          "id": "kids_nature_02",
+          "title": "Neon Streets",
+          "category": "Nature Ambience",
+          "thumbnail": "https://github.com/brahim1994/vid/releases/download/v1/nature.png",
+          "video_url": "https://github.com/brahim1994/vid/releases/download/v1/RELAJACION-.Musica.para.descansar.la.Mente.y.Activar.el.Sueno.B.mp4",
+          "loop": true,
+          "downloadable": false,
+          "premium_only": false
+        }
+      ]
+    }
+  ]
+}
