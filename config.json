@@ -4,6 +4,11 @@
     "app_name": "FireScape",
     "theme_color": "#F518A9",
 
+    "kids": {
+      "enabled": true,
+      "config_url": "https://brahistor.github.io/test1anime/kids_config.json"
+    },
+
     "buttons": {
       "rate_url": "xxxxxxxxxxxxxx",
       "share_text": "xxxxxxxxxxxxxxx",
@@ -65,14 +70,12 @@
         "autoShowIntervalSeconds": 0
       }
     },
-
     "tablet": {
       "theme_color": "#F518A2",
       "ads": {
         "banner": { "enabled": true, "size": "BANNER", "position": "BOTTOM" }
       }
     },
-
     "mobile": {
       "theme_color": "#F518A1",
       "ads": { "clicksBeforeInterstitial": 5 }
@@ -185,7 +188,6 @@
         }
       ]
     },
-
     {
       "name": "House fireplace Ambience",
       "videos": [
@@ -291,7 +293,6 @@
         }
       ]
     },
-
     {
       "name": "Nature Ambience",
       "videos": [
