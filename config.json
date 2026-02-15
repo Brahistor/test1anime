@@ -94,7 +94,7 @@
           "video_url": "https://mylivewallpapers.com/wp-content/uploads/Movies/PREVIEW-Jinx-Season-2-Arcane.mp4",
           "loop": true,
           "downloadable": true,
-          "premium_only": false
+          "premium_only": true
         },
         {
           "id": "fireplace_02",
@@ -104,7 +104,7 @@
           "video_url": "https://wallpaperwaves.com/wp-content/uploads/2025/12/irelia-league-of-legends-epic-combat-preview.mp4",
           "loop": true,
           "downloadable": true,
-          "premium_only": false
+          "premium_only": true
         },
         {
           "id": "fireplace_03",
