@@ -1,3 +1,4 @@
+[
 {
   "general": {
     "remote_config_version": 1,
@@ -435,7 +436,7 @@
           "loop": true,
           "downloadable": true,
           "premium_only": false
-        },
+        }]
          },
         {
           "id": "fireplace_02",
@@ -999,5 +1000,6 @@
         }
       ]
     }
-  ]
-}
+  
+]
+
