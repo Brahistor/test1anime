@@ -1,4 +1,4 @@
-{
+[ 
   {
     "general": {
       "remote_config_version": 1,
@@ -653,4 +653,4 @@
       }
     ]
   }
- }
+ ]
